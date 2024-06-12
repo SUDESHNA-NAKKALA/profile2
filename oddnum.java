@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.*;
-class OddNumbers{
+class OddNum{
 public static void main(String args[])
 {
  int i,n;
